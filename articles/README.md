@@ -16,22 +16,6 @@ Use it before a `singular count nouns` or when its `identity is not known` to th
 ```
 _Both of these Nouns are used for the first time in a conversation, so it is correct to use an indefinite article._
 
-## Definite article
-
-#### Rule:
-
-Use it before a noun to indicate that `an identity of a noun is known to` a reader or a listener.
-
-#### Scheme:
-
-- `the` noun with familiar identity
-
-#### Examples:
-```
-- Do you want an apple? 
-- Yes, please give me the apple.
-```
-_The noun apple was used the second time._
 
 
 ## No article
