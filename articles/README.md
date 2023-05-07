@@ -1,38 +1,59 @@
-# Main
+## Indefinite articles
 
-### Defenite articles
+#### Rule
 
-Use definite article before a noun to indicate that the **identity of the noun is known** to the reader.
+Use it before a `singular count nouns` or when its `identity is not known` to the reader.
 
-```yaml
-- the
+#### Schemes:
+
+- `a`  noun starts with unfamiliar identity and **consonant sound**
+- `an`  noun starts wit unfamiliar identity and **vowel sound**
+
+#### Examples:
 ```
-
-### Indefenite articles
-
-Use indefinite article before a **singular count nouns** or when its **identity is not known** to the reader.
-
-```yaml
-- an  # Noun starts with vowel sound
-- a  # Noun starts with consonant sound
+- I want to drive a car.
+- I want to eat an apple.
 ```
+_Both of these Nouns are used for the first time in a conversation, so it is correct to use an indefinite article._
 
-### No articles
+## Definite article
 
-Use no article before a **plural count or noncount nouns** or any used to mean **all or in general**.
+#### Rule:
 
-some Утвердительное
-any Вопросительное и Отрицание
-Только о неопределенном количестве чего-либо.
+Use it before a noun to indicate that `an identity of a noun is known to` a reader or a listener.
 
-# Examples
+#### Scheme:
 
-```yaml
-- Is she the cat? (Conservation about pet)
-- Please, give me some apples.
+- `the` noun with familiar identity
+
+#### Examples:
 ```
+- Do you want an apple? 
+- Yes, please give me the apple.
+```
+_The noun apple was used the second time._
 
-# Helpful links
-https://www.grammarly.com/blog/articles/   
-https://grammar.yourdictionary.com/vs/a-vs-an-basic-rules-and-exceptions.html   
-http://www.butte.edu/departments/cas/tipsheets/grammar/articles.html#:~:text=In%20English%20there%20are%20three,is%20known%20to%20the%20reader.
+
+## No article
+
+#### Rule:
+
+Use it before a `plural count` or `non count nouns` or `any used to mean all or in general`.
+
+#### Scheme:
+
+- ` ` plural count noun
+- ` ` non count noun
+- ` ` noun means in general
+
+#### Examples:
+```
+- Do you want an apple? 
+- Yes, please give me some apples.
+```
+_The noun apples in plural form, so it's correct to use it without article._
+
+
+## Links
+[Grammarly about articles](https://www.grammarly.com/blog/articles/)   
+[Butte college about articles](http://www.butte.edu/departments/cas/tipsheets/grammar/articles.html#:~:text=In%20English%20there%20are%20three,is%20known%20to%20the%20reader)
