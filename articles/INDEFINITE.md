@@ -1,10 +1,10 @@
 ## Indefinite articles
 
-#### Rule
+#### Rule:
 
 Use it before a `singular count nouns` or when its `identity is not known` to the reader.
 
-#### Schemes:
+#### Schemas:
 
 - `a`  noun starts with unfamiliar identity and **consonant sound**
 - `an`  noun starts wit unfamiliar identity and **vowel sound**

@@ -4,7 +4,7 @@
 
 Use it before a `plural count` or `non count nouns` or `any used to mean all or in general`.
 
-#### Scheme:
+#### Schemas:
 
 - ` ` plural count noun
 - ` ` non count noun

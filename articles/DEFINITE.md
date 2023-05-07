@@ -1,10 +1,10 @@
-## Definite article
+## Definite articles
 
 #### Rule:
 
 Use it before a noun to indicate that `an identity of a noun is known to` a reader or a listener.
 
-#### Scheme:
+#### Schemas:
 
 - `the` noun with familiar identity
 
