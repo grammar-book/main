@@ -1,4 +1,4 @@
-## Exclusions
+## 4. Exclusions
 
 Some words used only with `the`:
 
