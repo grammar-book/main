@@ -1,4 +1,4 @@
-## 1. Definite articles
+## Definite articles
 
 #### Rule:
 

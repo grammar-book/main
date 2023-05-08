@@ -1,4 +1,4 @@
-## 3. No article
+## No article
 
 #### Rule:
 
