@@ -3,26 +3,26 @@
 ### Some words using only WITH `the`
 
 #### Geographic things
-  - `the moon`
-  - `the sun`
-  - `the sea`
-  - `the sky`
-  - `the world`
-  - `the country`
+- `the moon`
+- `the sun`
+- `the sea`
+- `the sky`
+- `the world`
+- `the country`
 
 #### Government services
-  - `the police`
-  - `the fire brigade`
-  - `the army`
+- `the police`
+- `the fire brigade`
+- `the army`
 
 #### Directions
-  - `the top`
-  - `the bottom`
-  - `the middle`
-  - `the end`
-  - `the left`
-  - `the right`
-  - `etc.`
+- `the top`
+- `the bottom`
+- `the middle`
+- `the end`
+- `the left`
+- `the right`
+- `etc.`
 
 #### Communication services
 - `the internet`
@@ -37,10 +37,10 @@
 ### In some cases `the` is required
 
 #### Musical instruments with verb play
-  - `play the piano`
-  - `play the guitar`
-  - `play the trumpet`
-  - `etc.`
+- `play the piano`
+- `play the guitar`
+- `play the trumpet`
+- `etc.`
 
 #### Musical instruments with verb play
 - `play the piano`
@@ -62,3 +62,15 @@
 - `next/last summer/winter/autumn/spring`
 - `next/last Monday/Tuesday/Wednesday/Thursday/Friday/Saturday/Sunday`
 - `etc.`
+
+### Period of day:
+
+#### Using period of day with at means in general, no article is required:
+- `at morning`
+- `at afternoon`
+- `at evening`
+
+#### Using period of day with in means specific period of day, article the is required:
+- `in the morning`
+- `in the afternoon`
+- `in the evening`
