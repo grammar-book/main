@@ -24,28 +24,35 @@
   - `the right`
   - `etc.`
 
-#### Musical instruments
-  - `the piano`
-  - `the guitar`
-  - `the trumpet`
-  - `etc.`
-
 #### Communication services
-  - `the internet`
-  - `the radio`
+- `the internet`
+- `the radio`
 
 ### Some words using only WITHOUT `the`
 
-#### Meals
-  - `breakfast`
-  - `lunch`
-  - `dinner`
-
 #### TV
-  - `television`
-  - `TV (But: Can you turn off the TV)`
+- `television`
+- `TV (But: Can you turn off the TV)`
+
+### In some cases `the` is required
+
+#### Musical instruments with verb play
+  - `play the piano`
+  - `play the guitar`
+  - `play the trumpet`
+  - `etc.`
+
+### In some cases we don't use any article
+
+#### Meals with have
+- `have breakfast`
+- `have lunch`
+- `have dinner`
+- `etc.`
 
 #### Calendar things with next/last:
-  - `next/last day/week/month/year`
-  - `next/last summer/winter/autumn/spring`
-  - `next/last Monday/Tuesday/Wednesday/Thursday/Friday/Saturday/Sunday`
+- `next/last second/minute/hour`
+- `next/last day/week/month/year`
+- `next/last summer/winter/autumn/spring`
+- `next/last Monday/Tuesday/Wednesday/Thursday/Friday/Saturday/Sunday`
+- `etc.`
