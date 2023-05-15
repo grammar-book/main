@@ -42,12 +42,6 @@
 - `play the trumpet`
 - `etc.`
 
-#### Musical instruments with verb play
-- `play the piano`
-- `play the guitar`
-- `play the trumpet`
-- `etc.`
-
 ### In some cases we don't use any article
 
 #### Meals with have
