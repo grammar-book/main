@@ -1,18 +1,18 @@
 ## Present Simple
 
-#### Usages:
-1) **Stating the facts.**
-2) **Scheduled events.**
-3) **Daily routine.**
+#### Usages
+- **Stating the facts**
+- **Scheduled events**
+- **Daily routine**
 
-#### Afformative:
+#### Afformative
 
-**Without action:**
+*Without action*
 ```
 - Noun + Verb "be" + Something else .
 ```
 
-**With action:**
+*With action*
 ```
 - Noun + Verb + Something else .
 
@@ -21,14 +21,14 @@
 ```
 
 
-#### Interrogative:
+#### Interrogative
 
-**Without action:**
+*Without action*
 ```
 Verb "be" + Noun + Something else?
 ```
 
-**With action:**
+*With action*
 ```
 Do + Noun + Verb + Something else ?
 
@@ -38,12 +38,12 @@ Does + Noun + Verb + Something else ?
 
 #### Negative:
 
-**Without action:**
+*Without action*
 ```
 Noun + Verb "be" + not + Something else .
 ```
 
-**With action:**
+*With action*
 ```
 Noun + do + not + Verb + Something else .
 
@@ -52,7 +52,7 @@ Noun + does + not + Verb + Something else .
 ```
 
 #### Mark words
-```
+
 - never
 - ever
 - whenever
@@ -65,5 +65,5 @@ Noun + does + not + Verb + Something else .
 - rarely
 - normally
 - sometimes
-```
+
 
