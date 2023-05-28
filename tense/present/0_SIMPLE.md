@@ -1,5 +1,9 @@
 ## Present Simple
 
+#### Meaning
+The simple present, present simple or present indefinite is one of the verb forms associated with the present tense in modern English.
+
+
 #### Usages
 - **Stating the facts**
 - **Scheduled events**
@@ -25,7 +29,7 @@
 
 *Without action*
 ```
-Verb "be" + Noun + Something else?
+Verb "be" + Noun + Something else ?
 ```
 
 *With action*
@@ -36,7 +40,7 @@ Do + Noun + Verb + Something else ?
 Does + Noun + Verb + Something else ?
 ```
 
-#### Negative:
+#### Negative
 
 *Without action*
 ```
@@ -65,5 +69,3 @@ Noun + does + not + Verb + Something else .
 - rarely
 - normally
 - sometimes
-
-
